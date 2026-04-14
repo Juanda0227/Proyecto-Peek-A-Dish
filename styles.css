@@ -180,16 +180,15 @@ img { max-width: 100%; display: block; }
   margin-bottom: 24px;
 }
 .dish-card {
+  width: 100%;
+  max-width: 220px;
   border: 1px solid #bbb;
-  background: #fafafa;
-  padding: 0;
-  font-size: .85rem;
 }
+
 .dish-card img {
   width: 100%;
-  aspect-ratio: 4/3;
+  height: 160px;
   object-fit: cover;
-  border-bottom: 1px solid #bbb;
   display: block;
 }
 .dish-card-body { padding: 8px 10px; }
@@ -327,4 +326,7 @@ img { max-width: 100%; display: block; }
   .intro-img { float: none; width: 100%; margin: 0 0 12px; }
   .footer-block { grid-template-columns: 1fr; }
   .dish-list { grid-template-columns: 1fr 1fr; }
+}
+img {
+  max-width: 100%;
 }
