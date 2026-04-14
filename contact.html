@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registro - Peek a Dish</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <a href="index.html" class="logo">Peek a Dish</a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="service.html">Servicios</a></li>
+      <li><a href="registro.html" class="active">Registro</a></li>
+    </ul>
+  </nav>
+
+  <div class="page">
+    <div class="auth-container">
+      <div class="auth-box">
+        <h2>Crear cuenta</h2>
+        <input type="text" id="nombre" placeholder="Nombre completo" />
+        <input type="email" id="email" placeholder="Correo electrónico" />
+        <input type="password" id="password" placeholder="Contraseña" />
+        <button onclick="registrar()">SIGN UP</button>
+        <p>¿Ya tienes cuenta? <a href="login.html">Inicia sesión</a></p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function registrar() {
+      const nombre = document.getElementById('nombre').value;
+      const email = document.getElementById('email').value;
+      const password = document.getElementById('password').value;
+      if (!nombre || !email || !password) {
+        alert('Por favor completa todos los campos');
+        return;
+      }
+      localStorage.setItem('usuario', JSON.stringify({ nombre, email }));
+      alert('¡Registro exitoso!');
+      window.location.href = 'servicios.html';
+    }
+  </script>
+</body>
+</html>

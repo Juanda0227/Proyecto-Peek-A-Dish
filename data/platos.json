@@ -1,162 +1,163 @@
-[
+ [
   {
     "id": 1,
     "nombre": "Bistec a la parrilla",
-    "descripcion": "Corte de carne de res jugoso y tierno, asado a fuego directo hasta alcanzar el término deseado.",
-    "precio": 50000,
-    "imagen": "img/Bistec a la parrilla.webp",
+    "descripcion": "corte de carne de res jugoso y tierno, asado a fuego directo hasta alcanzar el término deseado.",
+    "precio": 20000,
+    "imagen": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=400&q=80",
     "categoria": "carne"
   },
   {
     "id": 2,
     "nombre": "Pasta Primavera",
-    "descripcion": "Pasta corta o larga salteada con vegetales frescos (brócoli, zanahoria, calabacín) en aceite de oliva y ajo.",
-    "precio": 40000,
-    "imagen": "",  
+    "descripcion": "Pasta fresca con vegetales y queso parmesano.",
+    "precio": 15000,
+    "imagen": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400&q=80",
+>>>>>>> master
     "categoria": "pasta"
   },
   {
     "id": 3,
-    "nombre": "Ensalada César ",
-    "descripcion": "Lechuga romana, trozos de pollo a la plancha, crutones de pan, queso parmesano y salsa césar clásica.",
-    "precio": 20000,
-    "imagen": "",
+    "nombre": "Caesar Salad",
+    "descripcion": "Lechuga romana con pollo grillado y aderezo clásico.",
+    "precio": 12000,
+    "imagen": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=400&q=80",
     "categoria": "ensalada"
   },
   {
     "id": 4,
-    "nombre": "Hamburguesa con queso",
-    "descripcion": "Carne de res, queso derretido, lechuga, tomate y salsas en pan blandito.",
-    "precio": 25000,
-    "imagen": "",
+    "nombre": "Cheeseburger",
+    "descripcion": "Hamburguesa con cheddar, lechuga y tomate.",
+    "precio": 10000,
+    "imagen": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
     "categoria": "rapida"
   },
   {
     "id": 5,
     "nombre": "Pizza Margarita",
-    "descripcion": "Pizza individual con salsa de tomate, mucho queso mozzarella y albahaca.",
-    "precio": 23000,
-    "imagen": "",
+    "descripcion": "Pizza clásica con tomate, mozzarella y albahaca.",
+    "precio": 18000,
+    "imagen": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&q=80",
     "categoria": "pizza"
   },
   {
     "id": 6,
     "nombre": "Tacos Mexicanos",
-    "descripcion": "Tres tacos de carne (res o pastor) con cebolla, cilantro y limón. Incluye salsa picante.",
-    "precio": 19000,
-    "imagen": "",
+    "descripcion": "Tacos de carne con guacamole y salsa.",
+    "precio": 14000,
+    "imagen": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=400&q=80",
     "categoria": "rapida"
   },
   {
     "id": 7,
     "nombre": "Sushi Roll",
-    "descripcion": "Rollo de arroz con salmón, queso crema y aguacate. Viene con salsa soya. ",
-    "precio": 30000,
-    "imagen": "",
+    "descripcion": "Rollos de sushi con salmón y aguacate.",
+    "precio": 22000,
+    "imagen": "https://images.unsplash.com/photo-1611143669185-af224c5e3252?w=400%q=80",
     "categoria": "asiatica"
   },
   {
     "id": 8,
     "nombre": "Pollo Asado",
-    "descripcion": "Medio pollo asado con papas, yuca y arepa.",
-    "precio": 20000,
-    "imagen": "",
+    "descripcion": "Pollo jugoso al horno con especias.",
+    "precio": 16000,
+    "imagen": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=400&q=80",
     "categoria": "carne"
   },
   {
     "id": 9,
-    "nombre": "Perro caliente",
-    "descripcion": "Salchicha americana en pan suave con cebolla picada, ripio de papa, queso fundido y salsas tradicionales.",
-    "precio": 15000,
-    "imagen": "",
+    "nombre": "Hot Dog",
+    "descripcion": "Perro caliente con salsas y papas.",
+    "precio": 8000,
+    "imagen": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=400&q=80",
     "categoria": "rapida"
   },
   {
     "id": 10,
-    "nombre": "Lasaña de carne",
-    "descripcion": "Capas de pasta rellenas de carne molida en salsa boloñesa, bechamel y mucho queso gratinado al horno.",
+    "nombre": "Lasagna",
+    "descripcion": "Lasaña de carne con queso gratinado.",
     "precio": 17000,
-    "imagen": "",
+    "imagen": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=400&q=80",
     "categoria": "pasta"
   },
   {
     "id": 11,
     "nombre": "Ensalada Griega",
-    "descripcion": "Mezcla fresca de tomate, pepino, cebolla roja, aceitunas negras y cubos de queso feta con orégano.",
-    "precio": 20000,
-    "imagen": "",
+    "descripcion": "Tomate, pepino, aceitunas y queso feta.",
+    "precio": 13000,
+    "imagen": "https://images.unsplash.com/photo-1529059997568-3d847b1154f0?w=400&q=80",
     "categoria": "ensalada"
   },
   {
     "id": 12,
     "nombre": "Arroz con Pollo",
-    "descripcion": "Arroz desmechado con pollo, verduras picadas (arveja, zanahoria, maíz) y un toque de cilantro. Servido con papas fritas.",
-    "precio": 25000,
-    "imagen": "",
+    "descripcion": "Arroz tradicional con pollo y verduras.",
+    "precio": 14000,
+    "imagen": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&q=80",
     "categoria": "tradicional"
   },
   {
     "id": 13,
     "nombre": "Costillas BBQ",
-    "descripcion": "Costillas de cerdo bañadas en salsa barbacoa dulce y ahumada. Acompañadas de papas a la francesa.",
-    "precio": 35000,
-    "imagen": "",
+    "descripcion": "Costillas de cerdo con salsa BBQ.",
+    "precio": 21000,
+    "imagen": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80",
     "categoria": "carne"
   },
   {
     "id": 14,
     "nombre": "Arepa con Queso",
-    "descripcion": "Arepa de maíz blanco o amarillo rellena o cubierta con abundante queso campesino derretido.",
-    "precio": 10000,
-    "imagen": "",
+    "descripcion": "Arepa caliente rellena de queso.",
+    "precio": 7000,
+    "imagen": "https://images.unsplash.com/photo-1748955309169-920300e22eee?w=400&q=80",
     "categoria": "tradicional"
   },
   {
     "id": 15,
     "nombre": "Empanadas",
-    "descripcion": "Empanadas fritas de maíz rellenas de carne con papa o pollo. Incluyen ají casero.",
-    "precio": 8000,
-    "imagen": "",
+    "descripcion": "Empanadas fritas rellenas de carne.",
+    "precio": 6000,
+    "imagen": "https://images.unsplash.com/photo-1624128082323-beb6b8b508db?w=400&q=80",
     "categoria": "rapida"
   },
   {
     "id": 16,
     "nombre": "Ceviche",
-    "descripcion": "Camarones frescos marinados en jugo de limón, cebolla morada, cilantro y salsa rosada o natural. Con galletas de soda.",
-    "precio": 30000,
-    "imagen": "",
+    "descripcion": "Pescado marinado en limón con cebolla.",
+    "precio": 19000,
+    "imagen": "https://images.unsplash.com/photo-1533658266890-8bd362930725?w=400&q=80",
     "categoria": "mar"
   },
   {
     "id": 17,
     "nombre": "Pancakes",
-    "descripcion": "Tres unidades de panqueques esponjosos con mantequilla y miel de maple o chocolate.",
-    "precio": 15000,
-    "imagen": "",
+    "descripcion": "Pancakes con miel y frutas.",
+    "precio": 11000,
+    "imagen": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=400&q=80",
     "categoria": "desayuno"
   },
   {
     "id": 18,
     "nombre": "Waffles",
-    "descripcion": "Waffle tostado por fuera y suave por dentro, servido con fruta picada (fresa o banano) y crema batida.",
-    "precio": 16000,
-    "imagen": "",
+    "descripcion": "Waffles crujientes con chocolate.",
+    "precio": 12000,
+    "imagen": "https://images.unsplash.com/photo-1558584724-0e4d32ca55a4?w=400&q=80",
     "categoria": "desayuno"
   },
   {
     "id": 19,
     "nombre": "Helado Artesanal",
-    "descripcion": "Dos bolas de helado cremoso de sabores naturales (vainilla, chocolate o frutos rojos) en vaso o cono.",
-    "precio": 10000,
-    "imagen": "",
+    "descripcion": "Helado de vainilla y chocolate.",
+    "precio": 9000,
+    "imagen": "https://images.unsplash.com/photo-1447195047884-0f014b0d9288?w=400&q=80",
     "categoria": "postre"
   },
   {
     "id": 20,
     "nombre": "Brownie",
-    "descripcion": "Brownie de chocolate melcochudo servido caliente con una bola de helado de vainilla y salsa de chocolate.",
-    "precio": 12000,
-    "imagen": "",
+    "descripcion": "Brownie de chocolate con nueces.",
+    "precio": 8000,
+    "imagen": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&q=80",
     "categoria": "postre"
   }
 ]
