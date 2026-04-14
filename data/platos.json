@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Bistec a la parrilla",
-    "descripcion": "corte de carne de res jugoso y tierno, asado a fuego directo hasta alcanzar el término deseado. Se caracteriza por su exterior sellado y ligeramente ahumado, realzado simplemente con sal y pimienta para destacar su sabor natural.",
+    "descripcion": "corte de carne de res jugoso y tierno, asado a fuego directo hasta alcanzar el término deseado.",
     "precio": 20000,
     "imagen": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=400&q=80",
     "categoria": "carne"
